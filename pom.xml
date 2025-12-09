@@ -8,9 +8,9 @@
         <version>2.1.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>pl.bykowski</groupId>
+    <groupId>one.techbrain</groupId>
     <artifactId>springboot-mongodb</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>springboot-mongodb</name>
     <description>Demo project for Spring Boot</description>
 
